@@ -16,7 +16,7 @@ else
         num1 = num1 / 10;
     }
 
-    int a1 = num1 % 10;
+int a1 = num1 % 10;
 
-    Console.WriteLine("Третья цифра введенного числа: " + Math.Abs(a1));
+Console.WriteLine("Третья цифра введенного числа: " + Math.Abs(a1));
 }
